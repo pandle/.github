@@ -9,5 +9,5 @@ PANDLE is a collection for Playing AND LEarning how to write code. This is the u
 
 ### Future projects
 
-* meetups on PyData for sharing knowledge
+* meetups with PyData for sharing knowledge
 * applications for disables
